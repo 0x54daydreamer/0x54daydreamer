@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0x54daydreamer
-- 👀 I’m interested Machine Learning
-- 🌱 I’m currently Offensive Security
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Offensive Security
 - 💞️ I’m looking to collaborate on Machine Learning and Offensive Security
 - 📫 How to reach me: opsec gmail+D0T+com
 
